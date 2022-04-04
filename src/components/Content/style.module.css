@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+    margin: 1rem;
+}
+
+.content_item {
+    width: 100%;
+    margin: 1rem;
+    padding: 1.5rem;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 2px 2px 4px 2px black;
+}
+
+.content_item h4 {
+    margin-bottom: 1rem;
+}
+
+.content_item img {
+    width: 100%;
+    margin: 1.5rem 0;
+    box-shadow: 0px 0px 5px 2px gray;
+}
+
+.content_item .no_screenshot {
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 2rem;
+    margin: 1rem;
+    font-style: italic;
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+.nav_item {
+    cursor: pointer;
+}
+
+.nav_item:hover {
+    background-color: green;
+}
+
+.nav_text {
+    color: white;
+    padding: 1.25em;
+}
+
+.nav_text:hover {
+    color: white;
+}
+
